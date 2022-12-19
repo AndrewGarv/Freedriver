@@ -8988,3 +8988,4 @@ size 133
 *.htm filter=lfs diff=lfs merge=lfs -text
 *.dwlt filter=lfs diff=lfs merge=lfs -text
 *.settings filter=lfs diff=lfs merge=lfs -text
+Freedriver/** filter=lfs diff=lfs merge=lfs -text

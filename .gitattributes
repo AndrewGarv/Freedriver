@@ -1,4 +1,6 @@
-*.psd filter=lfs diff=lfs merge=lfs -text
+version https://git-lfs.github.com/spec/v1
+oid sha256:83a39d6e5497517250117371456a9496ea6188d1aba3f6e1171a180f1cdad49c
+size 133
 *.suo filter=lfs diff=lfs merge=lfs -text
 *.vsconfig filter=lfs diff=lfs merge=lfs -text
 *.csproj filter=lfs diff=lfs merge=lfs -text
@@ -8911,6 +8913,7 @@
 *.mat filter=lfs diff=lfs merge=lfs -text
 *.spriteatlas filter=lfs diff=lfs merge=lfs -text
 *.ase filter=lfs diff=lfs merge=lfs -text
+*.psd filter=lfs diff=lfs merge=lfs -text
 /Library/PackageCache/com.unity.burst@1.6.6/.Runtime/207A89C76C3730EA filter=lfs diff=lfs merge=lfs -text
 /Library/PackageCache/com.unity.burst@1.6.6/.Runtime/43FFF67504C1B77C filter=lfs diff=lfs merge=lfs -text
 /Library/PackageCache/com.unity.burst@1.6.6/.Runtime/66B6680AF8A7451D filter=lfs diff=lfs merge=lfs -text

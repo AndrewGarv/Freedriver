@@ -1,3 +1,4 @@
+*.psd filter=lfs diff=lfs merge=lfs -text
 *.suo filter=lfs diff=lfs merge=lfs -text
 *.vsconfig filter=lfs diff=lfs merge=lfs -text
 *.csproj filter=lfs diff=lfs merge=lfs -text
@@ -8910,7 +8911,6 @@
 *.mat filter=lfs diff=lfs merge=lfs -text
 *.spriteatlas filter=lfs diff=lfs merge=lfs -text
 *.ase filter=lfs diff=lfs merge=lfs -text
-*.psd filter=lfs diff=lfs merge=lfs -text
 /Library/PackageCache/com.unity.burst@1.6.6/.Runtime/207A89C76C3730EA filter=lfs diff=lfs merge=lfs -text
 /Library/PackageCache/com.unity.burst@1.6.6/.Runtime/43FFF67504C1B77C filter=lfs diff=lfs merge=lfs -text
 /Library/PackageCache/com.unity.burst@1.6.6/.Runtime/66B6680AF8A7451D filter=lfs diff=lfs merge=lfs -text

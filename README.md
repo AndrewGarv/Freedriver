@@ -1,5 +1,5 @@
 # Freedriver (WIP)
-![Freedrive](https://cdn.discordapp.com/attachments/375398124820103172/1054513774557679716/FRD.gif)
+![Freedrive](https://github.com/AndrewGarv/Freedriver/blob/master/FRD.gif)
 
 Welcome to Freedriver! Pilot the eponymous "Freedriver" and combat interdimensional threats in this 2D shooter!
 
